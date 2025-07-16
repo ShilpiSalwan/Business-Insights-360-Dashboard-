@@ -2,6 +2,8 @@
 **Project Overview**
 The Business Insights 360 Project delivers a comprehensive, data-driven analysis of AtliqQ Hardware's business performance across Latin America, focusing on key domains: Finance, Sales, Marketing, Supply Chain, and Executive Insights. Built in Power BI, this interactive dashboard empowers stakeholders to uncover trends, optimize operations, and make informed strategic decisions.
 
+![](business_insights.png)
+
 **Key Objectives & Dashboard Views**
 
 1. **Finance View**
