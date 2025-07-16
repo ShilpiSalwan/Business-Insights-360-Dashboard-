@@ -4,7 +4,6 @@ The Business Insights 360 Project delivers a comprehensive, data-driven analysis
 
 **Key Objectives & Dashboard Views**
 1.** Finance View**
-
   •	Visualize critical financial KPIs through dynamic charts and user-controlled parameters.
   •	Analyze financial health and performance trends to support fiscal strategy.
 2. **Sales View**
