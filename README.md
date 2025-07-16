@@ -3,19 +3,20 @@
 The Business Insights 360 Project delivers a comprehensive, data-driven analysis of AtliqQ Hardware's business performance across Latin America, focusing on key domains: Finance, Sales, Marketing, Supply Chain, and Executive Insights. Built in Power BI, this interactive dashboard empowers stakeholders to uncover trends, optimize operations, and make informed strategic decisions.
 
 **Key Objectives & Dashboard Views**
-1. Finance View
+1.** Finance View**
+
   •	Visualize critical financial KPIs through dynamic charts and user-controlled parameters.
   •	Analyze financial health and performance trends to support fiscal strategy.
-2. Sales View
+2. **Sales View**
   •	Evaluate sales performance using scatter plots, donut charts, and product/customer-level insights.
   •	Identify high-performing products and customer segments for revenue growth.
-3. Marketing View
+3.** Marketing View**
   •	Deep-dive into marketing segment performance with waterfall charts and flexible data tables.
   •	Track effectiveness of campaigns and channel contributions.
-4. Supply Chain View
+4. **Supply Chain View**
   •	Monitor key supply chain metrics using trend charts and detailed breakdowns.
   •	Identify bottlenecks and streamline operations for improved efficiency.
-5. Executive View
+5. **Executive View**
   •	Tailored for decision-makers with top-level metrics, revenue trends, and strategic summaries.
   •	Offers quick insights into business performance at a glance.
 
