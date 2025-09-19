@@ -4,12 +4,9 @@ The Business Insights 360 Project delivers a comprehensive, data-driven analysis
 
 ![](business_insights.png)
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard: Interactive Dashboard
 
-👉 [Click here to view the dashboard]([https://app.powerbi.com/view?r=eyJrIjoiY...etc](https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE](https://app.powerbi.com/view?r=eyJrIjoiZjNlMmViZWUtOGJiMi00MTkzLTkwMzAtNGQ1ZmMzMDdhNDMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-
-[![View Dashboard](https://img.shields.io/badge/PowerBI-Live_Dashboard-yellow?style=for-the-badge&logo=powerbi)]([https://app.powerbi.com/view?r=eyJrIjoiEXAMPLE](https://app.powerbi.com/view?r=eyJrIjoiZjNlMmViZWUtOGJiMi00MTkzLTkwMzAtNGQ1ZmMzMDdhNDMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[👉 Click here to view the interactive dashboard]([https://app.powerbi.com/view?r=YOUR_POWER_BI_LINK_HERE]([https://app.powerbi.com/view?r=eyJrIjoiZjNlMmViZWUtOGJiMi00MTkzLTkwMzAtNGQ1ZmMzMDdhNDMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9])
 
 **Key Objectives & Dashboard Views**
 
